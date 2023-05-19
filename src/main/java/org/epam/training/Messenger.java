@@ -1,5 +1,7 @@
 package org.epam.training;
 
+import org.epam.training.server.MessageServer;
+
 public class Messenger {
 
     private MessageServer messageServer;
